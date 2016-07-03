@@ -30,7 +30,9 @@ nmap <silent> <expr>  zz  FS_ToggleFoldAroundSearch({'context':1})
 
 ### Sample output
 
-![sample](https://github.com/gavocanov/foldsearches/raw/master/sample.png)
+Folded search results for keyword _syntastic_:
+
+![sample](https://github.com/gavocanov/foldsearches.vim/raw/master/sample.png)
 
 ### Licence, disclaimer as from Damian's repo
 
