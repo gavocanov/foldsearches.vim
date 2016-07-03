@@ -28,6 +28,10 @@ nmap <silent> <expr>  zz  FS_ToggleFoldAroundSearch({'context':1})
 
 `context` determines how many lines around the `search term` will be visible between folds.
 
+### Sample output
+
+![sample](https://github.com/gavocanov/foldsearches/raw/master/sample.png)
+
 ### Licence, disclaimer as from Damian's repo
 
 *Totally unsupported.*
